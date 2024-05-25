@@ -1,0 +1,2 @@
+
+(git add .) - which is used to add multiple files in a git hub. it is in the staging area.
